@@ -1,0 +1,92 @@
+.laatikko {
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(150deg, purple, pink);
+    padding: 10px;
+}
+
+.todo-lista {
+    width: 100%;
+    max-width: 600px;
+    background: whitesmoke;
+    margin: 100px auto 20px;
+    padding: 40px 30px 10px;
+    border-radius: 10px;
+}
+
+.todo-lista h2 {
+    color: black;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.todo-lista h2 img {
+    width: 100px;
+    height: auto;
+    padding-left: 250px;
+}
+
+.rivi {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: lightpink;
+    border-radius: 30px;
+    padding-left: 20px;
+    margin-bottom: 25px;
+}
+
+input {
+    flex: 1;
+    border: none;
+    outline: none;
+    background: transparent;
+    padding: 10px;
+    font-weight: 14px;
+}
+
+button {
+    border: none;
+    outline: none;
+    padding: 16px 50px;
+    background: purple;
+    color: whitesmoke;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 40px;
+}
+
+ul li {
+    position: relative;
+    list-style: none;
+    font-size: 20px;
+    padding: 12px 10px 12px 50px;
+    user-select: none;
+    cursor: pointer;
+}
+
+ul li::before {
+    content: '';
+    position: absolute;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    background-image: url(kuvat/pyora.png);
+    background-size: cover;
+    background-position: center;
+    top: 8px;
+    left: 8px;
+}
+
+ul li.valittu {
+color: darkgray;
+text-decoration: line-through;
+}
+
+ul li.valittu::before {
+    background-image: url(kuvat/pyora2.png);
+}
+
