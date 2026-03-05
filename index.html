@@ -2,24 +2,29 @@
 <html lang="fi">
   <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="css/style.css" />
     <title>Kesän pyöräilyretket</title>
   </head>
   <body>
-    <div class="laatikko">
+    <div class="tausta">
         <div class="todo-lista">
-            <h2>Kesän pyöräilyretket <img src="kuvat/todo_logo.png"></h2>
+            <h2>Kesän pyöräilyretket <img src="kuvat/pyora2.png"></h2>
 
-            <div class="rivi">
-                <input type="text" id="inputLaatikko" placeholder="Lisää harjoitus">
-                <button id="lisaaNappi">Lisää</button>
+            <div class="lomake">
+              <form id="harjoitusForm">
+                <input type="text" id="inputHarjoitus" placeholder="Lisää kuvaus matkasta"><br>
+                <input type="number" id="inputMatka" placeholder="Lisää kilometrit"><br>
+              <button type="submit" id="lisaaNappi">Lisää harjoitus</button>  
+              </form>
             </div>
-
-                <ul id="listanSisalto">
-                  <!-- <li class="valittu"></li>-->
-                </ul>
+            <p id="laskuri">Kilometrejä yhteensä: </p>
         </div>
+        <div id="postIt">
+ <!--<textarea class="lappu">Pyöräily</textarea>-->
+</div>
     </div>
-<script src="script.js"></script>
+
+
+<script src="js/script.js"></script>
   </body>
 </html>
