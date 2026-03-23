@@ -173,6 +173,9 @@ p {
   }
 
   #postIt {
+    max-width: 600px;
+    width: 90%;
+    margin: 0 auto;
     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
   }
 
