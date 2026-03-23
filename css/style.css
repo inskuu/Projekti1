@@ -3,7 +3,7 @@
     width: 100%;
     min-height: 100vh;
     background: linear-gradient(180deg, #8477ff, #fcc5db);
-    padding: 0 10px;
+    padding: 10px;
     overflow: hidden;
     box-sizing: border-box;
 }
@@ -109,13 +109,6 @@ input {
     gap: 25px;
 }
 
-.postIt-wrapper {
-    width: 100%;
-    max-width: none;     
-    padding: 0;       
-    
-}
-
 /* PostIt lapun määrittelyt */
 .lappu {
     position: relative;
@@ -180,17 +173,12 @@ p {
   .todo-lista h2 img {
     width: 50px;
   }
-  
-  .postIt-wrapper {
-    width: 100%;
-    max-width: 600px;
-    margin: 0 auto;
-    padding: 0 10px;
-    box-sizing: border-box;
-  }
 
   #postIt {
-    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    max-width: 600px;
+    width: 90%;
+    margin: 0 auto;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
   }
 
   .laskurit {
