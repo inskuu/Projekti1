@@ -1,3 +1,8 @@
+
+html, body {
+  overflow-x: hidden;
+}
+
 /* Taustan määrittelyt */
 .tausta {
     width: 100%;
@@ -77,6 +82,11 @@ input {
     font-size: 16px !important;
 }
 
+textarea {
+  font-size: 16px !important;
+}
+
+
 #inputHarjoitus {
     display: block;
     width: 95%;
@@ -105,7 +115,7 @@ input {
 #postIt {
     display: grid;
     grid-template-columns: repeat(auto-fill, 200px);
-    padding: 20px;
+    padding: 30px;
     gap: 25px;
 }
 
@@ -166,11 +176,6 @@ p {
 
 /* Responsiivisuus */
 @media screen and (max-width: 768px) {
- #postIt {
-    grid-template-columns: repeat(3, 1fr);
-    justify-items: center;
-}
-
   .lappu {
     width: 150px;
     height: 150px;
