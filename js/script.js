@@ -1,8 +1,9 @@
 //Poimi elementit
 const inputHarjoitus = document.querySelector("#inputHarjoitus");
 const inputMatka = document.querySelector("#inputMatka");
-const lomake = document.querySelector("#harjoitusForm")
-const postIt = document.querySelector("#postIt");  
+const lomake = document.querySelector("#harjoitusForm");
+const postIt = document.querySelector("#postIt");
+
 
 //Satunnainen väri
 const pastelliVarit = [
@@ -119,8 +120,6 @@ function laskuri() {
     document.getElementById("tekematta").textContent =
     "Tekemättä: " + tekematta;
 }
-
-
 
 
 

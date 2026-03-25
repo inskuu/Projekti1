@@ -155,13 +155,14 @@ justify-content: space-between;
 align-items: center;
 width: 80%;
 max-width: 600px;
-margin: 20px auto;
+margin: auto;
 }
 
 p {
  font-family: "Gloria Hallelujah"; 
  font-weight: bold;  
 }
+
 
 
 /* Responsiivisuus */

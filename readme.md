@@ -43,11 +43,7 @@ CSS avulla muokkasin sivun tyyliä esim. värit, fontit, se miten elementit aset
 JAVASCRIPTILLÄ tein toiminnallisuudet esim. lomakkeen validointi ja virheilmoitukset, tietojen lisäys post it lapuille, tehtyjen ja tekemättömien asioiden laskuri, post it lappujen merkitseminen tehdyksi tai poistaminen.
 
 ## Asennus
-Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi:  
-- lataa kaikki tiedostot ja avaa index.html selaimessasi  
-- lataa tai kloonaa repositorio  
-- suorita `npm install`  
-- ...
+
 
 ## Kiitokset
 Lista lähteistä ja esimerkeistä, joita käytit projektin aikana. Mainitse myös, jos käytit ChatGPT:tä tai muita tekoälytyökaluja koodauksen aikana ja kerro, miten ne auttoivat sinua.  
