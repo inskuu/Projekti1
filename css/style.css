@@ -1,8 +1,3 @@
-
-html, body {
-  overflow-x: hidden;
-}
-
 /* Taustan määrittelyt */
 .tausta {
     width: 100%;
@@ -79,13 +74,8 @@ input {
     flex: 1;
     border: 1px solid black;
     padding: 10px;
-    font-size: 16px !important;
+    font-size: 16px;
 }
-
-textarea {
-  font-size: 16px !important;
-}
-
 
 #inputHarjoitus {
     display: block;
@@ -115,7 +105,7 @@ textarea {
 #postIt {
     display: grid;
     grid-template-columns: repeat(auto-fill, 200px);
-    padding: 30px;
+    padding: 32px;
     gap: 25px;
 }
 
@@ -135,7 +125,7 @@ textarea {
 
 .lappu p {
     margin: 0;
-    font-size: 25px;
+    font-size: 22px;
     white-space: pre-line;
     font-family: "Gloria Hallelujah";
 }
