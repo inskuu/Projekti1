@@ -114,10 +114,10 @@ function laskuri() {
     const tehdyt = document.querySelectorAll(".lappu p.tehty");
     const tekematta = kaikki.length - tehdyt.length;
 
-    document.getElementById("tehdyt").textContent =
+    document.querySelector("#tehdyt").textContent =
     "Tehdyt: " + tehdyt.length;
 
-    document.getElementById("tekematta").textContent =
+    document.querySelector("#tekematta").textContent =
     "Tekemättä: " + tekematta;
 }
 
