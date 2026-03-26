@@ -4,7 +4,8 @@ Pyöräilysuunnitelmat
 ## Verkkolinkit:
 Pääset julkaistuun sovellukseen käsiksi osoitteessa [netlify.com](https://domskriptausprojekti.netlify.app/?)
 Linkki GitHub repositorioon [github.com] (https://github.com/inskuu/Projekti1.git)
-Linkki projektin videoesittelyyn [google.com](https://google.com)
+Linkki projektin videoesittelyyn [laureauas-my.sharepoint.com/](https://laureauas-my.sharepoint.com/:v:/g/personal/iik00062_laurea_fi/IQB-ezZQyS6aQJPADPPFY9MLAeYTIZR_XcuVU9bLI4KWXZw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1dEApb)
+Videon ääni ilmeisesti aika hiljaisella, toivottavasti siitä kuuluu tarpeeksi. 
 
 ## Oma arvio työstä ja oman osaamisen kehittymisestä
 Mielestäni onnistuin työssä hyvin.
@@ -15,8 +16,9 @@ Epäselväksi jäi aika monikin asia. Kaikki on vielä tosi uutta ja hidasta. Tu
 Antaisin itselleni pisteitä seuraavasti: xx/yy p
 
 ## Palaute opettajalle kurssista sekä itse opetuksesta tähän saakka
-Kurssi on ollut mielenkiintoinen, joskin haastava. Tuntuu, että joulutauon aikana osa ohjelmoinnin perusteet kurssin asioista pääsi jo unohtumaan ja niitä on pitänyt kertailla.  
-Oppimistani tukisi jos, tunteja olisi joskus kampuksella. Esim. omatoimista projektin tekoa, mutta niin, että tarvittaessa voisi heti kysyä apua, jos tulee ongelmia.
+Kurssi on ollut mielenkiintoinen, joskin haastava. Tykkään kursseista, joissa pääsee tekemään ja pähkäilemään ja ratkomaan "ongelmia". 
+Oppimista tukisi, jos html kurssi ja ohjelmoinnin perusteet olisi olleet juuri ennen tätä kurssia ja olisi pysynyt tietynlainen jatkumo asioiden suhteen. Tässä vaiheessa opintoja pienikin tauko näistä asioista, niin ehtii jo osa asioista unohtumaan.   
+Mitä olen jäänyt kaipaamaan, niin olisi kiva, jos tunteja olisi joskus myös kampuksella. Esim. omatoimista projektin tekoa, mutta niin, että tarvittaessa voisi heti kysyä apua, jos tulee ongelmia. 
 
 ## Sisällysluettelo:
 
@@ -43,14 +45,14 @@ CSS avulla muokkasin sivun tyyliä esim. värit, fontit, se miten elementit aset
 JAVASCRIPTILLÄ tein toiminnallisuudet esim. lomakkeen validointi ja virheilmoitukset, tietojen lisäys post it lapuille, tehtyjen ja tekemättömien asioiden laskuri, post it lappujen merkitseminen tehdyksi tai poistaminen.
 
 ## Asennus
+Sovellus toimii netlify linkin (https://domskriptausprojekti.netlify.app/?) kautta.
 
-
-## Kiitokset
-Lista lähteistä ja esimerkeistä, joita käytit projektin aikana. Mainitse myös, jos käytit ChatGPT:tä tai muita tekoälytyökaluja koodauksen aikana ja kerro, miten ne auttoivat sinua.  
+## Kiitokset 
 - [Google Fonts](https://fonts.google.com/)
-    -Hain täältä fontin, jota käytin
+    -Hain täältä fontin, jota käytin.
 - [Copilot](https://copilot.microsoft.com/)
-    -Tätä käytin aina, kun en saanut jotain toimimaan. Syötin koodia ja kysyin mikä vikana, kun koodi ei toimi, kuten olin sen ajatellut. 
+    -Tätä käytin aina, kun en saanut jotain toimimaan. Syötin koodia ja kysyin mikä vikana, kun koodi ei toimi, kuten olin sen ajatellut.
+    -Pyysin tekoäly luomaan minulle sopivan kuvan/logon, jota käytin. 
 - [W3Schools](https://www.w3schools.com/) 
     -Täältä etsin tietoa aina ensimmäisten joukossa. Esim. todo listoista, random väreistä
 - [Opettajan materiaali] (https://mika-stenberg.gitbook.io/web-sovelluksia-javascriptin-avulla)
