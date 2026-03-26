@@ -13,7 +13,7 @@ Parantamista olisi varmaan monessakin asiassa, en kuitenkaan keksi mitään yksi
 Sovelluksesta jäi puuttumaan tehtyjen lappujen kilometri laskuri, en saanut sitä toimimaan. 
 Koen, että olen oppinut paljon javascriptin käytöstä.
 Epäselväksi jäi aika monikin asia. Kaikki on vielä tosi uutta ja hidasta. Tuntuu, ettei mitään osaa vielä tehdä ilman, että seuraa ohjeita ja tarkistelee mitä koodia piti milloinkin käyttää.
-Antaisin itselleni pisteitä seuraavasti: xx/yy p
+Antaisin itselleni pisteitä seuraavasti: 9/10 p
 
 ## Palaute opettajalle kurssista sekä itse opetuksesta tähän saakka
 Kurssi on ollut mielenkiintoinen, joskin haastava. Tykkään kursseista, joissa pääsee tekemään ja pähkäilemään ja ratkomaan "ongelmia". 
