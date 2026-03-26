@@ -3,7 +3,7 @@ Pyöräilysuunnitelmat
 
 ## Verkkolinkit:
 Pääset julkaistuun sovellukseen käsiksi osoitteessa [netlify.com](https://domskriptausprojekti.netlify.app/?)
-Linkki GitHub repositorioon [github.com] (https://github.com/inskuu/DOMskriptausProjekti.git)
+Linkki GitHub repositorioon [github.com](https://github.com/inskuu/DOMskriptausProjekti.git)
 Linkki projektin videoesittelyyn [laureauas-my.sharepoint.com/](https://laureauas-my.sharepoint.com/:v:/g/personal/iik00062_laurea_fi/IQB-ezZQyS6aQJPADPPFY9MLAeYTIZR_XcuVU9bLI4KWXZw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1dEApb)
 Videon ääni ilmeisesti aika hiljaisella, toivottavasti siitä kuuluu tarpeeksi. 
 
